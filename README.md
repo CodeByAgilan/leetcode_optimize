@@ -4,13 +4,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Brainteaser
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Binary Search
+|  |
+| ------- |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+## Sliding Window
+|  |
+| ------- |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 <!---LeetCode Topics End-->
