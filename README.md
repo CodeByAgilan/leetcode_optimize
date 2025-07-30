@@ -26,5 +26,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0044-wildcard-matching) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/1302-delete-characters-to-make-fancy-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0044-wildcard-matching) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
