@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+## String
+|  |
+| ------- |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/1302-delete-characters-to-make-fancy-string) |
 <!---LeetCode Topics End-->
