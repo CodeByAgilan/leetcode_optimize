@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0011-container-with-most-water) |
 | [0118-pascals-triangle](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0118-pascals-triangle) |
+| [0940-fruit-into-baskets](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0940-fruit-into-baskets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Bit Manipulation
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0940-fruit-into-baskets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## String
 |  |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
