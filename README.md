@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0011-container-with-most-water) |
 | [0118-pascals-triangle](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0118-pascals-triangle) |
+| [0498-diagonal-traverse](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0498-diagonal-traverse) |
 | [0940-fruit-into-baskets](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0940-fruit-into-baskets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0498-diagonal-traverse) |
 | [3790-fruits-into-baskets-ii](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0342-power-of-four) |
+## Matrix
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
