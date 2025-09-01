@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0011-container-with-most-water) |
 | [0118-pascals-triangle](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0118-pascals-triangle) |
 | [0498-diagonal-traverse](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0498-diagonal-traverse) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0001-two-sum) |
 | [0940-fruit-into-baskets](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0940-fruit-into-baskets) |
 ## Segment Tree
 |  |
