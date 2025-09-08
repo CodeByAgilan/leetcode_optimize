@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0342-power-of-four) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 ## Matrix
 |  |
 | ------- |
