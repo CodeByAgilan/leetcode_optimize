@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3462-vowels-game-in-a-string](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/3462-vowels-game-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0044-wildcard-matching) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [3462-vowels-game-in-a-string](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/3462-vowels-game-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,8 +84,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0342-power-of-four) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [3462-vowels-game-in-a-string](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/3462-vowels-game-in-a-string) |
 ## Matrix
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0498-diagonal-traverse) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
