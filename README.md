@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0044-wildcard-matching) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [3462-vowels-game-in-a-string](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/3462-vowels-game-in-a-string) |
 ## Dynamic Programming
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0001-two-sum) |
 | [0940-fruit-into-baskets](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0940-fruit-into-baskets) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Segment Tree
 |  |
 | ------- |
