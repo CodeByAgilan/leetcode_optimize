@@ -105,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
