@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0118-pascals-triangle) |
 | [0498-diagonal-traverse](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0498-diagonal-traverse) |
 | [0940-fruit-into-baskets](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0940-fruit-into-baskets) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0342-power-of-four) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3462-vowels-game-in-a-string](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/3462-vowels-game-in-a-string) |
 ## Matrix
 |  |
@@ -95,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/3462-vowels-game-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
