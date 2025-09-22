@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3790-fruits-into-baskets-ii](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0001-two-sum) |
 | [0940-fruit-into-baskets](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0940-fruit-into-baskets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Segment Tree
 |  |
 | ------- |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0184-department-highest-salary) |
 | [1541-top-travellers](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/1541-top-travellers) |
+## Counting
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/3242-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
