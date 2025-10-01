@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0498-diagonal-traverse) |
+| [1642-water-bottles](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/1642-water-bottles) |
 | [3790-fruits-into-baskets-ii](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0342-power-of-four) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1642-water-bottles](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/1642-water-bottles) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3462-vowels-game-in-a-string](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/3462-vowels-game-in-a-string) |
 ## Matrix
