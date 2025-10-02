@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0184-department-highest-salary) |
+| [0596-classes-with-at-least-5-students](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0596-classes-with-at-least-5-students) |
 | [1135-customers-who-bought-all-products](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/1135-customers-who-bought-all-products) |
 | [1541-top-travellers](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/1541-top-travellers) |
 ## Counting
