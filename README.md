@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0011-container-with-most-water) |
 | [0118-pascals-triangle](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0118-pascals-triangle) |
+| [0407-trapping-rain-water-ii](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0498-diagonal-traverse) |
 | [0940-fruit-into-baskets](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0940-fruit-into-baskets) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0498-diagonal-traverse) |
 ## Game Theory
 |  |
@@ -123,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/3242-count-elements-with-maximum-frequency) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0407-trapping-rain-water-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
