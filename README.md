@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0184-department-highest-salary) |
 | [0596-classes-with-at-least-5-students](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0596-classes-with-at-least-5-students) |
+| [0626-exchange-seats](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0626-exchange-seats) |
 | [1135-customers-who-bought-all-products](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/1135-customers-who-bought-all-products) |
 | [1541-top-travellers](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/1541-top-travellers) |
 ## Counting
