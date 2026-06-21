@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0498-diagonal-traverse) |
 | [0940-fruit-into-baskets](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0940-fruit-into-baskets) |
+| [1833-maximum-ice-cream-bars](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/1833-maximum-ice-cream-bars) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0044-wildcard-matching) |
+| [1833-maximum-ice-cream-bars](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/1833-maximum-ice-cream-bars) |
 ## Recursion
 |  |
 | ------- |
@@ -135,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/0407-trapping-rain-water-ii) |
+## Sorting
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/CodeByAgilan/leetcode_optimize/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
